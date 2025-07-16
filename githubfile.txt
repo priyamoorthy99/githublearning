@@ -1,2 +1,2 @@
-Here I'm creating a file in the github and I'm going to transfer this file to local folder which is vs code.
+Here I'm creating a file in the github and I'm going to transfer this file from github repository to local folder which is vs code.
 This is I'm transferring using "git pull" command.
