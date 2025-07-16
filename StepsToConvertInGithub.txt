@@ -1,0 +1,8 @@
+First we need to insert the file
+Second we need to add the file
+Third we need to commit the file
+Fourth we need to push the file from local to github (vc to github)
+ 
+ Insert -> Add -> Commit -> Push 
+
+ Whatever changes we made in system means we need to do these 4 steps to change in github.
